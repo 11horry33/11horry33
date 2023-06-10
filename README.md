@@ -4,4 +4,4 @@
 * メール：horiguchi@ai.cs.ehime-u.ac.jp
 
 ## 資格
-* 基本情報技術者
+* 基本情報技術者試験
