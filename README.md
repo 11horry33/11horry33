@@ -1,8 +1,8 @@
 ## プロフィール
 * 名前：堀口航輝 (Koki Horiguchi)
 * 所属：愛媛大学 M1 人工知能研究室
-* メール：horiguchi@ai.cs.ehime-u.ac.jp
 * 研究テーマ：医療テキスト平易化
+* メール：horiguchi@ai.cs.ehime-u.ac.jp
 
 ## 国際会議
 * Koki Horiguchi, Tomoyuki Kajiwara, Yuki Arase, Takashi Ninomiya.  
