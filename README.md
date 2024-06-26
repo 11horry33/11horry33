@@ -7,7 +7,7 @@
 ## 国際会議
 * Koki Horiguchi, Tomoyuki Kajiwara, Yuki Arase, Takashi Ninomiya.  
   Evaluation Dataset for Japanese Medical Text Simplification.  
-  NAACL SRW 2024. [[to appear](https://naacl2024-srw.github.io/)]
+  NAACL SRW 2024. [[PDF]([https://naacl2024-srw.github.io/](https://aclanthology.org/2024.naacl-srw.23/))]
 
 ## 国内会議
 * 堀口 航輝, 梶原 智之, 二宮 崇, 若宮 翔子, 荒牧 英治.  
