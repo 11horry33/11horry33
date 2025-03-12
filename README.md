@@ -5,9 +5,13 @@
 * メール：horiguchi@ai.cs.ehime-u.ac.jp
 
 ## 国際会議
+* Risa Kondo, Ayu Teramen, Reon Kajikawa, Koki Horiguchi, Tomoyuki Kajiwara, Takashi Ninomiya, Hideaki Hayashi, Yuta Nakashima, Hajime Nagahara.
+  Text Normalization for Japanese Sentiment Analysis.  
+  W-NUT 2025. New Mexico, USA, May 2025. [to appear]
+  
 * Koki Horiguchi, Tomoyuki Kajiwara, Yuki Arase, Takashi Ninomiya.  
   Evaluation Dataset for Japanese Medical Text Simplification.  
-  NAACL SRW 2024. [[PDF](https://aclanthology.org/2024.naacl-srw.23/)]
+  NAACL SRW 2024. Mexico City, Mexico. June 2024. [[PDF](https://aclanthology.org/2024.naacl-srw.23/)]
 
 ## 国内会議
 * 堀口 航輝, 梶原 智之, 二宮 崇, 若宮 翔子, 荒牧 英治.  
