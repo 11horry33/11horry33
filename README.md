@@ -5,7 +5,7 @@
 * メール：horiguchi@ai.cs.ehime-u.ac.jp
 
 ## 国際会議
-* Risa Kondo, Ayu Teramen, Reon Kajikawa, Koki Horiguchi, Tomoyuki Kajiwara, Takashi Ninomiya, Hideaki Hayashi, Yuta Nakashima, Hajime Nagahara.
+* Risa Kondo, Ayu Teramen, Reon Kajikawa, Koki Horiguchi, Tomoyuki Kajiwara, Takashi Ninomiya, Hideaki Hayashi, Yuta Nakashima, Hajime Nagahara.  
   Text Normalization for Japanese Sentiment Analysis.  
   W-NUT 2025. New Mexico, USA, May 2025. [to appear]
   
