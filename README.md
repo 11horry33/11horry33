@@ -27,12 +27,12 @@
   言語処理学会第30回年次大会, p255-259, 2024. [[PDF](https://anlp.jp/proceedings/annual_meeting/2024/pdf_dir/P1-21.pdf)] [[poster](https://drive.google.com/file/d/10Ydu_c9d8ka4TZuGAI0-c0plBL--YHhg/view?usp=drive_link)]
 
 ## 受賞
-* 人工知能学会第38回全国大会 全国大会優秀賞
+* 人工知能学会第38回全国大会 全国大会優秀賞 [[here](https://www.ai-gakkai.or.jp/about/award/jsai_award-conf/)]
   >近藤 里咲, 寺面 杏優, 梶川 怜恩, 堀口 航輝, 梶原 智之, 二宮 崇, 早志 英朗, 中島 悠太, 長原 一.  
   >テキスト正規化による日本語感情分析の性能改善.  
   >人工知能学会第38回全国大会, 4Xin2-12, 2024  
   
-* 言語処理学会第30回年次大会 若手奨励賞 (599件中の18件)
+* 言語処理学会第30回年次大会 若手奨励賞 (対象427件中の18件) [[here](https://www.anlp.jp/nlp2024/award.html)]
   >堀口 航輝, 梶原 智之, 荒瀬 由紀, 二宮 崇.  
   >日本語医療テキスト平易化の評価用データセットの構築.  
   >言語処理学会第30回年次大会, p255-259, 2024.
