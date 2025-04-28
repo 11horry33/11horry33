@@ -7,7 +7,7 @@
 ## 国際会議
 * Risa Kondo, Ayu Teramen, Reon Kajikawa, Koki Horiguchi, Tomoyuki Kajiwara, Takashi Ninomiya, Hideaki Hayashi, Yuta Nakashima, Hajime Nagahara.  
   Text Normalization for Japanese Sentiment Analysis.  
-  W-NUT 2025. New Mexico, USA, May 2025. [to appear]
+  W-NUT 2025. New Mexico, USA, May 2025. [[PDF](https://aclanthology.org/2025.wnut-1.16/)]
   
 * Koki Horiguchi, Tomoyuki Kajiwara, Yuki Arase, Takashi Ninomiya.  
   Evaluation Dataset for Japanese Medical Text Simplification.  
