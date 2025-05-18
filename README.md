@@ -5,6 +5,9 @@
 * メール：horiguchi@ai.cs.ehime-u.ac.jp
 
 ## 国際会議
+* Koki Horiguchi, Tomoyuki Kajiwara, Takashi Ninomiya, Shoko Wakamiya, Eiji Aramaki.  
+  MultiMSD: A Corpus for Multilingual Medical Text Simplification from Online Medical References.  
+  ACL 2025 Findings. Vienna, Austria. July 2025. [to appear]
 * Risa Kondo, Ayu Teramen, Reon Kajikawa, Koki Horiguchi, Tomoyuki Kajiwara, Takashi Ninomiya, Hideaki Hayashi, Yuta Nakashima, Hajime Nagahara.  
   Text Normalization for Japanese Sentiment Analysis.  
   W-NUT 2025. New Mexico, USA, May 2025. [[PDF](https://aclanthology.org/2025.wnut-1.16/)]
