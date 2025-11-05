@@ -5,6 +5,10 @@
 * Email: horiguchi@ai.cs.ehime-u.ac.jp
 
 ## International Conferences
+* Rina Miyata, Koki Horiguchi, Risa Kondo, Yuki Fujiwara, Tomoyuki Kajiwara.  
+  EhiMeNLP at TSAR 2025 Shared Task Candidate Generation via Iterative Simplification and Reranking by Readability and Semantic Similarity.
+  TSAR 2025. Suzhou, China. November 2025. [[PDF](https://aclanthology.org/2025.tsar-1.18/)]
+
 * Koki Horiguchi, Tomoyuki Kajiwara, Takashi Ninomiya, Shoko Wakamiya, Eiji Aramaki.  
   MultiMSD: A Corpus for Multilingual Medical Text Simplification from Online Medical References.  
   ACL 2025 Findings. Vienna, Austria. July 2025. [[PDF](https://aclanthology.org/2025.findings-acl.481/)] [[data](https://github.com/EhimeNLP/MultiMSDcorpus)]
@@ -35,6 +39,11 @@
   言語処理学会第30回年次大会, p255-259, 2024. [[PDF](https://anlp.jp/proceedings/annual_meeting/2024/pdf_dir/P1-21.pdf)] [[poster](https://drive.google.com/file/d/10Ydu_c9d8ka4TZuGAI0-c0plBL--YHhg/view?usp=drive_link)] [[data](https://github.com/OnizukaLab/JASMINE)]
 
 ## Achievement
+* TSAR 2025 Shared Task on Readability-Controlled Text Simplification：20チーム中1位
+  >Rina Miyata, Koki Horiguchi, Risa Kondo, Yuki Fujiwara, Tomoyuki Kajiwara.  
+  >EhiMeNLP at TSAR 2025 Shared Task Candidate Generation via Iterative Simplification and Reranking by Readability and Semantic Similarity.
+  >TSAR 2025. Suzhou, China. November 2025.
+  
 * 第24回情報科学技術フォーラム (FIT2025) FIT奨励賞
   >近藤 里咲, 寺面 杏優, 堀口 航輝, 梶川 怜恩, 鈴木 陽也, 宮内 裕人, 山内 洋輝, 秋山 和輝, 梶原 智之, 二宮 崇, Chenhui Chu, 武村 紀子, 早志 英朗, 中島 悠太, 長原 一.  
   >日本語SNSのためのテキスト正規化および感情分析のデータセット.  
