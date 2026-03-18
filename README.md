@@ -24,7 +24,7 @@
 ## Domestic Conferences
 * 堀口 航輝, 杉山 誠治, 梶原 智之, 若宮 翔子, 荒牧 英治.  
   JMedWiC：日本語医療分野の語義同一性判定データセット.  
-  言語処理学会第32回年次大会, pp.xxx-xxx, March 2026. [to appear]
+  言語処理学会第32回年次大会, pp.3009-3013, March 2026. \[[PDF](https://www.anlp.jp/proceedings/annual_meeting/2026/pdf_dir/Q6-23.pdf)\]  
 
 * 近藤 里咲, 寺面 杏優, 堀口 航輝, 梶川 怜恩, 鈴木 陽也, 宮内 裕人, 山内 洋輝, 秋山 和輝, 梶原 智之, 二宮 崇, Chenhui Chu, 武村 紀子, 早志 英朗, 中島 悠太, 長原 一.  
   日本語SNSのためのテキスト正規化および感情分析のデータセット.  
