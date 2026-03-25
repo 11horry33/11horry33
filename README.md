@@ -5,6 +5,10 @@
 * Email: horiguchi@ai.cs.ehime-u.ac.jp
 
 ## International Conferences
+* Koki Horiguchi, Seiji Sugiyama, Tomoyuki Kajiwara, Shoko Wakamiya, Eiji Aramaki.  
+  JMedWiC: A Japanese Word-in-Context Dataset in the Medical Domain.  
+  Clinical NLP Workshop 2026. Mallorca, Spain. May 2026. [to appear]
+  
 * Rina Miyata, Koki Horiguchi, Risa Kondo, Yuki Fujiwara, Tomoyuki Kajiwara.  
   EhiMeNLP at TSAR 2025 Shared Task Candidate Generation via Iterative Simplification and Reranking by Readability and Semantic Similarity.
   TSAR 2025. Suzhou, China. November 2025. [[PDF](https://aclanthology.org/2025.tsar-1.18/)]
