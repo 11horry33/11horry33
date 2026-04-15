@@ -1,8 +1,7 @@
 ## Profile
 * Name: Koki Horiguchi (堀口 航輝)
-* Affiliation: M2, NLP Lab, Ehime University
-* Research Theme: Medical Text Simplification
-* Email: horiguchi@ai.cs.ehime-u.ac.jp
+* Affiliation: M.S., Ehime University / Data Scientist
+* Email: horry33@outlook.jp
 
 ## International Conferences
 * Koki Horiguchi, Seiji Sugiyama, Tomoyuki Kajiwara, Shoko Wakamiya, Eiji Aramaki.  
